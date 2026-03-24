@@ -19,7 +19,7 @@ tenantid       = "fe6c41e5-a3e4-4d16-82df-1b33029102eb"
 # Azure App Service Environment v3
 #####################################
 ase_name   = "cl-ase-dev-esim-01"
-subnet_id  = "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/rg-network-dev/providers/Microsoft.Network/virtualNetworks/vnet-dev/subnets/snet-ase"
+#subnet_id  = "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/rg-network-dev/providers/Microsoft.Network/virtualNetworks/vnet-dev/subnets/snet-ase"
 
 # Opcionales
 # dedicated_host_count                   = 2
