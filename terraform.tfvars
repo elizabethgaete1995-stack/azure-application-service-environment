@@ -12,8 +12,8 @@ tracking_code = "PRJ-ESIM-2026"
 #####################################
 rsg_name       = "rg-poc-test-001"
 location       = "chilecentral"
-subscriptionid = "00000000-0000-0000-0000-000000000000"
-tenantid       = "00000000-0000-0000-0000-000000000000"
+subscriptionid = "ef0a94be-5750-4ef8-944b-1bbc0cdda800"
+tenantid       = "fe6c41e5-a3e4-4d16-82df-1b33029102eb"
 
 #####################################
 # Azure App Service Environment v3
